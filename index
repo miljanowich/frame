@@ -1,0 +1,75 @@
+<!doctype html>
+<head>
+<meta charset="UTF-8">
+   
+  <title>FRAME</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  #wrap {width:60%;}
+  #frame {
+  width:100%;
+  height:300px;}
+  #ja {border: 2px solid red;}
+  </style>
+
+</head>
+<body>
+
+
+<div align="center">
+<div id="wrap">
+
+<h1>IFRAMES</h1>
+
+<h4>html iframe</h4>
+
+
+<h2>TUTORIALS</h2>
+
+    <iframe id="frame" src="https://itpresent.com/web/" scrolling=""></iframe>
+
+
+<br><br><br>
+
+<h2>VICEVI</h2>
+
+    <iframe id="frame" src="https://literatura.elektronskaknjiga.com/vicevi/index.php" scrolling=""></iframe>
+
+
+<br><br><br>
+
+<h2>TUTORIJALI</h2>
+
+    <iframe id="frame" src="https://elektronskaknjiga.com/tutorijali" scrolling=""></iframe>
+
+
+<br><br><br>
+
+
+
+<h2>RADIO STANICE</h2>
+
+    <iframe id="frame" src="https://radiostanice.extratoplista.com" scrolling=""></iframe>
+
+
+<br><br><br>
+
+
+<h2>TOP HITS</h2>
+
+    <iframe id="frame" src="https://www.tophits.extratoplista.com/" scrolling=""></iframe>
+
+
+<br><br><br>
+
+
+
+<div id="footer">
+<br>
+
+
+
+</div>
+</div>
+</body>
+</html>
